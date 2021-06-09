@@ -1,7 +1,7 @@
 from random import randint
 import time
 
-plr1 = input('Input 1st palyer`s nsme: ')
+plr1 = input('Input 1st palyer`s name: ')
 plr2 = input('Input 2nd player`s name: ')
 plr1_pts=0
 plr2_pts=0
