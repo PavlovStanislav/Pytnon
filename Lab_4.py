@@ -29,8 +29,8 @@ for i in range(1,6):
         plr2_pts+=0.5
 
 if plr1_pts>plr2_pts:
-    print (plr1 + ' Wins. '+ " Points: "+ str(plr1_pts))
+    print(plr1 + ' Wins. '+ " Points: "+ str(plr1_pts))
 elif plr1_pts<plr2_pts:
-    print (plr2 + ' Wins. '+ " Points: " + str(plr2_pts))
+    print(plr2 + ' Wins. '+ " Points: " + str(plr2_pts))
 else:
-    print ('Draw: ', plr1_pts, "+",plr2_pts);
+    print('Draw: ', plr1_pts, "+",plr2_pts);
